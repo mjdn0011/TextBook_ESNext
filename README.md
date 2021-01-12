@@ -1,2 +1,2 @@
-# TextBook-ECMAScript
-ECMAScript description &amp; example codes (for study)
+# TextBook-ESNext
+ESNext description &amp; example codes (for study)
